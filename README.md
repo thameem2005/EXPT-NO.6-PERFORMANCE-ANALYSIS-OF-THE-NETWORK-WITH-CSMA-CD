@@ -1,3 +1,8 @@
+# DATE : 19/02/2026
+# EXPT-NO.6-PERFORMANCE-ANALYSIS-OF-THE-NETWORK-WITH-CSMA-CD
+
+
+
 # AIM
 
 To write an NS2 program to observe the performance of the network with Carrier Sense Multiple Access/Collision Detection.
@@ -82,8 +87,7 @@ $ns run
  
 # OUTPUT
 
-
-
+<img width="1000" height="1280" alt="image" src="https://github.com/user-attachments/assets/ee04115f-a23f-42a7-9d3e-e6d3e81d8554" />
 
 # RESULT
 
